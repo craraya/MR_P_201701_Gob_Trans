@@ -1,5 +1,5 @@
 # MR_P_201701_Gob_Trans
-Análisis de la pagina de Gobierno Transparente (CL)
+Análisis de la página de Gobierno Transparente (CL)
 
 ## Resumen.
 Se pretende analizar la página: <http://www.gobiernotransparentechile.gob.cl/>. Específicamente lo relacionado con la dotación de planta disponible de las subsecretarías (información publicada y actualizada).
